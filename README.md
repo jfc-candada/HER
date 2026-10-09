@@ -1,6 +1,6 @@
 # HER
 
-## Human Experience Runtime
+## Human Episodic Runtime
 
 **HER is an independently developed musical instrument and runtime designed to bridge natural creative intent and technical execution.**
 

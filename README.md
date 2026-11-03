@@ -155,15 +155,15 @@ The remaining programme is broader than the Phase 2 live-learning loop. It inclu
 
 Current public documentation does not establish a defensible completion date for that wider programme. A time-to-completion estimate should follow a reconciled inventory of remaining work, dependencies, integration boundaries and acceptance evidence — not be inferred from the existence of the POC or from milestone labels alone.
 
-## Public and private development surfaces
+## Public project history and development surfaces
 
-The public repository, [jfc-candada/HER](https://github.com/jfc-candada/HER), is the curated public engineering surface. It presents the instrument's purpose, architecture, demonstrated capabilities, methodology and development direction for peer review and technical collaboration.
+The public repository, [jfc-candada/HER](https://github.com/jfc-candada/HER), is a curated account of an existing project — not the point at which HER began. It records the instrument's origin, purpose, development history, high-level architecture, design philosophy, demonstrated capabilities and engineering direction. It provides an accessible place for interested people to understand the project, follow its progress and engage with the work.
 
-The broader private development environment retains proprietary implementation and architecture details, differentiated design decisions, internal interfaces and workflows, mathematical formulations, detailed operational topology, private test evidence, forensic records and environment-specific working material.
+The story begins with [Purpose and Origin](docs/program/purpose-and-origin.md): HER began as Goal 2, an effort to build an independent, voice-synthesized musical instrument following hospital recovery. It did not begin as a generic AI project, nor as a GitHub repository. The public [Architecture Overview](docs/architecture/overview.md), [Phase 1 Proof of Concept](docs/music/phase-1-poc.md), and [Development Method](docs/methodology/development-method.md) continue that history with the system's broad responsibilities, technical approach and evidence of development.
 
-The distinction is deliberate. Public documentation should preserve HER's creation history, high-level architecture, design principles, demonstrated capabilities and engineering direction. It should not disclose detailed designs or combinations of components, contracts, data structures and decision processes where those details would expose differentiated know-how or provide a practical reproduction blueprint. The boundary applies to architecture and design as well as source code; it is not a reason to make the public project vague or erase its engineering history.
+The wider private development environment retains the complete working record and material that would expose differentiated implementation mechanisms, proprietary decision logic, sensitive operational details or a practical reproduction blueprint. This does not exclude architecture or design from public discussion: the public project deliberately documents its high-level architecture, design principles, engineering rationale and development history.
 
-See [Public Release Boundary](docs/program/public-release-boundary.md).
+The distinction is between explaining the instrument and publishing the particular mechanisms that make its differentiated implementation valuable. The [Public Release Boundary](docs/program/public-release-boundary.md) describes that distinction.
 
 ## Repository navigation
 

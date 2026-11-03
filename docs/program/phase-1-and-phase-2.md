@@ -95,8 +95,12 @@ That is a fundamentally different capability from simply generating recommendati
 
 The human remains the source of artistic authority. The system learns from evidence of human choice rather than attempting to replace it.
 
-## Completion target
+## Phase 2 milestone boundary
 
-Phase 2 is the next major completion milestone for the music loop.
+Phase 2 is a major milestone for the music-performance loop: extending HER from preparation into observation of actual performance decisions, durable representation of those observations, and their considered use in subsequent reasoning.
 
-The work already completed in Phase 1 provides the processing foundation. The remaining engineering is primarily concerned with live observation, event capture, state integration and reasoning/orchestration around those observations.
+That milestone depends on more than event capture alone. It requires the relevant observation sources, event definitions, state contracts, persistence and retrieval paths, reasoning consumers, and integration boundaries to work together and be validated.
+
+Phase 2 is **not the completion target for HER as a whole**. The wider programme also includes the Core authority and state model, structured ingestion and contract integration, knowledge and context retrieval, orchestration and policy, delegated Core–Edge execution, integration of the musical capabilities, and evidence-backed end-to-end acceptance.
+
+The public description records the programme's intent and major engineering boundaries. It does not assert that these capabilities are all implemented, integrated or operationally qualified. Their maturity must be established from implementation and acceptance evidence.

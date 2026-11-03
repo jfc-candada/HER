@@ -159,9 +159,9 @@ Current public documentation does not establish a defensible completion date for
 
 The public repository, [jfc-candada/HER](https://github.com/jfc-candada/HER), is the curated public engineering surface. It presents the instrument's purpose, architecture, demonstrated capabilities, methodology and development direction for peer review and technical collaboration.
 
-The broader private development environment retains proprietary implementation details, differentiated mathematical formulations, detailed operational topology, private test evidence, forensic records and environment-specific working material.
+The broader private development environment retains proprietary implementation and architecture details, differentiated design decisions, internal interfaces and workflows, mathematical formulations, detailed operational topology, private test evidence, forensic records and environment-specific working material.
 
-The distinction is deliberate. Public documentation should explain what H.E.R. is, what it has demonstrated and how the programme is structured without unnecessarily disclosing the proprietary mechanisms or private operational record.
+The distinction is deliberate. Public documentation should preserve HER's creation history, high-level architecture, design principles, demonstrated capabilities and engineering direction. It should not disclose detailed designs or combinations of components, contracts, data structures and decision processes where those details would expose differentiated know-how or provide a practical reproduction blueprint. The boundary applies to architecture and design as well as source code; it is not a reason to make the public project vague or erase its engineering history.
 
 See [Public Release Boundary](docs/program/public-release-boundary.md).
 
